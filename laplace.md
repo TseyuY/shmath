@@ -1,9 +1,8 @@
 ## 正式定义
 
-对于所有实数$t\ge0$，函数的拉普拉斯变换是函数$F(s)$，定义为：
-$$
-F(s)=\int_{0}^{\infty}e^{-st}f(t)dt
-$$
+对于所有实数<img src="http://chart.googleapis.com/chart?cht=tx&chl= $t\ge0$" style="border:none;">，函数的拉普拉斯变换是函数<img src="http://chart.googleapis.com/chart?cht=tx&chl= $F(s)$" style="border:none;">，定义为：
+
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= $$F(s)=\int_{0}^{\infty}e^{-st}f(t)dt$$" style="border:none;">
 
 其中频率参数$s$是一个复数：
 
