@@ -18,9 +18,9 @@ g(t)=\mathcal{L}^{-1}\{{G(s)}\}$$" style="border:none;">
 | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 单位脉冲信号 | <img src="http://chart.googleapis.com/chart?cht=tx&chl= $\delta(t)$" style="border:none;"> | <img src="http://chart.googleapis.com/chart?cht=tx&chl= $1$" style="border:none;"> |
 | 单位阶跃信号 | <img src="http://chart.googleapis.com/chart?cht=tx&chl= u(t)" style="border:none;"> | <img src="http://chart.googleapis.com/chart?cht=tx&chl= $\frac{1}{s}$ " style="border:none;"> |
-| 延迟脉冲信号 | <img src="http://chart.googleapis.com/chart?cht=tx&chl= $\delta(t-\tau)$" style="border:none;"> | <img src="http://latex.codecogs.com/gif.latex?e^{-\tau s}" /> |
-| 延迟阶跃信号 | <img src="http://chart.googleapis.com/chart?cht=tx&chl= $u(t-\tau)$" style="border:none;"> | <img src="http://latex.codecogs.com/gif.latex?\frac{1}{s}e^{-\tau s}" /> |
-|   斜坡信号   | <img src="http://chart.googleapis.com/chart?cht=tx&chl= t\cdot u(t)" style="border:none;"> | <img src="http://chart.googleapis.com/chart?cht=tx&chl= \frac{1}{s^{2}}" style="border:none;"> |
+| 延迟脉冲信号 | <img src="http://chart.googleapis.com/chart?cht=tx&chl= $\delta(t-\tau)$" style="border:none;"> | <img src="http://latex.codecogs.com/gif.latex?e^{-\tau {s}}" /> |
+| 延迟阶跃信号 | <img src="http://chart.googleapis.com/chart?cht=tx&chl= $u(t-\tau)$" style="border:none;"> | <img src="http://latex.codecogs.com/gif.latex?\frac{1}{s}e^{-\tau{s}}" /> |
+|   斜坡信号   | <img src="http://chart.googleapis.com/chart?cht=tx&chl= t\cdot {u(t)}" style="border:none;"> | <img src="http://chart.googleapis.com/chart?cht=tx&chl= \frac{1}{s^{2}}" style="border:none;"> |
 |   $n$次幂    | <img src="http://chart.googleapis.com/chart?cht=tx&chl= $t^{n}u(t)$" style="border:none;"> | <img src="http://latex.codecogs.com/gif.latex?\frac{n!}{s^{n+1}}" /> |
 |   指数衰减   | <img src="http://chart.googleapis.com/chart?cht=tx&chl= e^{-\alpha t}\cdot u(t)" style="border:none;"> | <img src="http://latex.codecogs.com/gif.latex?\frac{1}{s+\alpha}" /> |
 |   正弦函数   | <img src="http://chart.googleapis.com/chart?cht=tx&chl= \sin(\omega t)\cdot u(t)" style="border:none;"> | <img src="http://latex.codecogs.com/gif.latex?\frac{\omega ^{2}}{s^{2}+\omega^{2}} " /> |
