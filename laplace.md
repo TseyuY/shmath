@@ -8,8 +8,8 @@
 
 ## 性质和定理
 
-函数<img src="http://chart.googleapis.com/chart?cht=tx&chl= $f(t)$" style="border:none;"> 和<img src="http://chart.googleapis.com/chart?cht=tx&chl= $g(t)$" style="border:none;">的拉普拉斯变换分别是<img src="http://chart.googleapis.com/chart?cht=tx&chl= $F(s)$" style="border:none;">和<img src="http://chart.googleapis.com/chart?cht=tx&chl= $G(s)$" style="border:none;">:<img src="http://chart.googleapis.com/chart?cht=tx&chl= $$f(t)=\mathcal{L}^{-1}\{{F(s)}\}\\
-g(t)=\mathcal{L}^{-1}\{{G(s)}\}$$" style="border:none;">
+函数<img src="http://chart.googleapis.com/chart?cht=tx&chl= $f(t)$" style="border:none;"> 和<img src="http://chart.googleapis.com/chart?cht=tx&chl= $g(t)$" style="border:none;">的拉普拉斯变换分别是<img src="http://chart.googleapis.com/chart?cht=tx&chl= $F(s)$" style="border:none;">和<img src="http://chart.googleapis.com/chart?cht=tx&chl= $G(s)$" style="border:none;">:<img src="http://chart.googleapis.com/chart?cht=tx&chl= f(t)=\mathcal{L}^{-1}\{{F(s)}\}\\
+g(t)=\mathcal{L}^{-1}\{{G(s)}\}" style="border:none;">
 
 
 <h4><center>拉普拉斯变换的简表 <center><h4> 
